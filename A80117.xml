@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The araignment of hypocrisie or, a looking-glasse for murderers and adulterers; and all others that profes religion, and make show of holiness, yet deny the power and practice thereof in their lives and conversations. Being a fearfull example of Gods judgements on Mr. Barker, minister of Gods word at Pytchley two miles from Ketterin in Northhamptonshire; who for living in adultery with his neer kinswoman, and concealing the murder of her infant; was with his kinswoman and maid-servant executed at Northampton. With the strange manner of the discovery of that horrid murder; and their several speeches immediately before their deaths.</title>
+            <author>J. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80117</idno>
+            <idno type="STC">Wing C52</idno>
+            <idno type="STC">Thomason E1290_3</idno>
+            <idno type="STC">ESTC R208987</idno>
+            <idno type="EEBO-CITATION">99867898</idno>
+            <idno type="PROQUEST">99867898</idno>
+            <idno type="VID">169722</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80117)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169722)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 173:E1290[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The araignment of hypocrisie or, a looking-glasse for murderers and adulterers; and all others that profes religion, and make show of holiness, yet deny the power and practice thereof in their lives and conversations. Being a fearfull example of Gods judgements on Mr. Barker, minister of Gods word at Pytchley two miles from Ketterin in Northhamptonshire; who for living in adultery with his neer kinswoman, and concealing the murder of her infant; was with his kinswoman and maid-servant executed at Northampton. With the strange manner of the discovery of that horrid murder; and their several speeches immediately before their deaths.</title>
+                  <author>J. C.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>by John Crowch and T.W.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>'To the reader' (A1v) signed: J.C.</note>
+                  <note>Signatures: A.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 10th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hypocrisy --  Religious aspects --  Early works to 1800.</term>
+               <term>Adultery --  Early works to 1800.</term>
+               <term>Murder --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169722:1" rendition="simple:additions"/>
+            <p>THE ARAIGNMENT OF HYPOCRISIE: <hi>OR,</hi> A Looking-glaſſe for Mur<g ref="char:EOLhyphen"/>derers and Adulterers; <hi>And all others</hi> That Profes <hi>Religion,</hi> and make ſhow of <hi>Holineſs,</hi> yet deny the Power and Practice thereof in their <hi>Lives</hi> and <hi>Converſations.</hi>
+            </p>
+            <p>
+               <hi>Being a fearfull EXAMPLE of Gods Judgements on Mr.</hi> Barker, <hi>Miniſter of Gods Word at</hi> Pytchley <hi>two miles from</hi> Ketterin <hi>in</hi> Norhamptonſhire; <hi>Who</hi> For living in <hi>Adultery</hi> with his neer Kinſwoman, and concealing the <hi>Murder</hi> of her <hi>Infant,</hi> was with his Kinſwoman and Maid-ſervant executed at <hi>Northampton.</hi>
+            </p>
+            <p>With the ſtrange manner of the Diſcovery of that horrid Murder; And their ſeverall <hi>SPEECHES</hi> imme<g ref="char:EOLhyphen"/>diately before their Deaths.</p>
+            <p>Printed at <hi>London</hi> by <hi>John Crowch</hi> and <hi>T.W.</hi> 1652.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169722:2"/>
+            <head>To the Reader.</head>
+            <p>IT is not unknown to many in <hi>Northamtonſhire,</hi> and elſe-where how ſtrict a Profeſſor, and how much fol<g ref="char:EOLhyphen"/>lowed this Miniſter was by many People who were termed <hi>Puritanes;</hi> for his <hi>Perſon</hi> and <hi>Profeſſion,</hi> I ſhall have that Charity, as to paſſe by, But for his <hi>crime,</hi> which was <hi>Adultery</hi> and <hi>Murder,</hi> (being the reigning ſins of theſe Times) he having already ſuffered for the ſame, I ſhall on<g ref="char:EOLhyphen"/>ly give you the brief Relation thereof, and referr you to his own Speech at his Death.</p>
+            <p>He having a neer Kinſman, who at his death commit<g ref="char:EOLhyphen"/>ted his only Daughter to his care and Tuition, who grow<g ref="char:EOLhyphen"/>ing to maturity, he tempted to his <hi>Luſt,</hi> and got her with Chide, and the cloſer to hide his ſinne, and the ſhame thereof from the eye of the World, and his wronged Wife, procured <hi>Savin,</hi> and gave it her to deſtroy her Childe, but that failing, he juggl'd ſo with his Maid-ſervant, that with the help of the Mother, they barbarouſly and inhumanly mudered the ſame.</p>
+            <p>But God (that will not let Murder goe unpuniſhed) diſcovered the ſame by a little Boy, who being in an Ap<g ref="char:EOLhyphen"/>ple-tree gathering Apples, ſaw Mr. <hi>Barker</hi> digge the Hole in the Orchard, and the Maid-ſervant bring the Childe and put it therein. <hi>Vale,</hi>
+            </p>
+            <closer>
+               <signed>Thine <hi>J. C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:169722:2"/>
+            <head>THE Arraignment of Hypocriſie. <hi>Mr.</hi> Barker's <hi>SPEECH.</hi>
+            </head>
+            <p>DEar Friends, I ought rather to fall a weeping over you, then to begin to ſpeak to you; but I can do neither as I would; for indeed my ſtrength is ſpent as wel as my time, but yet as well as I may (God enabling me) I will endeavour to give the world ſatisfaction in clearing my conſci<g ref="char:EOLhyphen"/>ence, ſpeaking the truth in the diſcovery of mine offences: You know, and I think here is none ig<g ref="char:EOLhyphen"/>norant, that two things have brought me to this ſad, fatal, diſmal place, <hi>Murder</hi> and <hi>Adultery;</hi> and for the latter of the two I confeſs my ſelf exceed<g ref="char:EOLhyphen"/>ing faulty; I am fouly guilty of <hi>Incontinency,</hi> and I think that in this kind there is not any like me in the world, ſo groſs an offendor have I been, ve<g ref="char:EOLhyphen"/>ry unclean, &amp; wonderfull vile that way, although thoſe that knew me did not think I had bin ſuch a wretch. It is my fault I confeſs that brought theſe two already dead, of my family, to their end; ſo that I may ſay, <hi>I have ſinned, I have done wickedly;</hi> but theſe ſheep, what have they done? <hi>Let thy hand be againſt me and my fathers houſe;</hi> for I have a long time continued in this groſs vile ſin of uncleaneſs, and have many times expreſt it by wanton words,
+<pb facs="tcp:169722:3"/>
+thoughts, and actions, and that to her who was neer to me, neer ally'd to me, dear to me, that was committed to my care by her deareſt friends, who hoped better then what hath befallen.</p>
+            <p>This odious ſin I committed with her that pro<g ref="char:EOLhyphen"/>feſt Religion, that had excellent parts, that was well proportioned, that was beautifull, that had good gifts, one that had received much illumina<g ref="char:EOLhyphen"/>tion by me, and I received much good by her; Oh that I might have died to have preſerved their lives! But oh! ſuch a vile wretch I have bin, that although I preached againſt that ſin, yet I lived in it, though I had many checks of conſcience, and many reproofs by others Sermons that I heard in divers places, yet I lived in it, and continued ſo to do, and ſo I am perſwaded I ſhould have done till I had dy'd in that ſin, and been damn'd for that ſin, if God had not taken this courſe to bereave me of this great ſin, my Maſter-ſin, my boſom-ſin, this abominable ſin, for which I now abhor my ſelf: Oh that I could lament and mourn for this ſin, &amp; all other mine offences with tears of blood, yea as many as I have done water ſince my ſinning, and that againſt ſuch light and knowledge! O that I ſhould live in and love ſuch a ſin ſo long, that was a Miniſter, a Preacher, one that was noted and fol<g ref="char:EOLhyphen"/>lowed all the Country over, ſuch a man as I in an eminent Calling; but my <hi>Hypocriſie</hi> was very great to live in ſuch a ſin, ſuch an odious ſin, ſuch a baſe courſe of life, under a Cloak of Religion, a meer form of Godlineſs, ſo that it may be juſtly ſaid of
+<pb facs="tcp:169722:3"/>
+me, <hi>What haſt thou to do to take my Word into thy mouth, ſeeing thou hateſt to be reformed?</hi> Yet was I taken for a ſincere, and (as the World counts them) a Puritan-Miniſter, I was taken for a ſtrict godly man, but alas there was no ſuch matter in me. (Beloved) I fell into this grievous ſin, and all other my offences, for want of Religion, for want of holineſs, that was the cauſe of my dangerous falling; for had Religion been in me in truth? had a good foundation of holines been grounded and ſetled in my ſoule, I had never ſo fouly miſ<g ref="char:EOLhyphen"/>carried as I have, and been ſuch an offence and of<g ref="char:EOLhyphen"/>fender as I am? I have been (I confeſs) a great offence to true Religion, to the faithfull Miniſtry, and to the holy profeſſion of the Goſpel: it is true that offences ſhall come, <hi>but wo to them by whom the offence commeth,</hi> and that heavy wo hath overtaken me, and falls very ſore upon me, that I ſhould be a great meanes and cauſe of ſcandalizing the truth: Oh, how is my mind diſtracted! Oh, that I could do God ſome ſervice, ſome honor now at the laſt! Oh that I could convert all you that hear me! Oh that the words of a dying man might take impreſ<g ref="char:EOLhyphen"/>ſion upon you, to work in you a hatred of all ſin<g ref="char:EOLhyphen"/>full wayes! Oh that I could be an inſtrument of good to you, to turn you from your ſinful wayes! But I know to my grief, my fall is that which ſom do rejoyce in, that they may hereby take occaſion to jeer, ſing, and rime of it on the Ale-bench: Well take it from me (and they are the words of a dy<g ref="char:EOLhyphen"/>ing man) that the falls of the faithfull are the de<g ref="char:EOLhyphen"/>ſtruction
+<pb facs="tcp:169722:4"/>
+of the wicked; Chriſt himſelf was ſet for the fall and riſing again of many in <hi>Iſrael;</hi> But by one miſcarriage they will take occaſion and li<g ref="char:EOLhyphen"/>berty to ſinne, although they deſtroy themſelves; Now will ſuch ſay, Come man, do not you know how ſuch and ſuch, and ſuch ſtrict diſſembling Pu<g ref="char:EOLhyphen"/>ritans have lived themſelves? Thus will they en<g ref="char:EOLhyphen"/>courage themſelves and others in all ſorts of vo<g ref="char:EOLhyphen"/>luptuous wayes: But conſider this I beſeech you, that this your reſolv'd plodding on in ſinful waies and ſtumbling at the falls and infirmities of Gods Servants, your taking offence at the falls of the Saints, will break your necks into Hell as it hath done mine, if the Lord be not infinitely mer<g ref="char:EOLhyphen"/>cifull to me for Chriſts ſake; And that woe that falls on me, will fall on you to your everlaſting perdition: Oh, but I have been the cauſe of the death of theſe two already dead, &amp; of a thouſand thouſand ſoules, which I fear will take liberty preſumptuouſly to ſin by my evill example: Oh for Gods ſake, as you love your precious ſoules, do not (I charge you) ſpeak evill of the truth of God for my fault: Speak as bad as you will of me, for you cannot ſpeak bad enough, but let me tell you thus much, and I ſpeak the truth, that all thoſe whom the world calls <hi>Puritan-Preachers, Pu<g ref="char:EOLhyphen"/>ritan-Profeſſors,</hi> are the beſt people in the world, however the world doth eſteem of them, and judge them. I tell you my grievous fall was for want of true Grace, for want of imbracing the Truth for the love of Truth; Know therefore thus much,
+<pb facs="tcp:169722:4"/>
+That although holineſs and holy men be ſcoft at, yet without holineſs yee ſhall never ſee God; you muſt walk in the Truth, and abide in that way that is called <hi>Puritaniſme,</hi> or ye ſhall never come to Heaven, but ſhall certainly be damned; there<g ref="char:EOLhyphen"/>fore do not ſay in diſlike of Religion, that it is naught, or that Gods wayes be not right; do not ſay the Sacraments, Preaching, Prayer, Meditati<g ref="char:EOLhyphen"/>on, Gods Ordinances, holy Duties, are naught, and they are naught that uſe them, and that be<g ref="char:EOLhyphen"/>cauſe I am ſcandalouſly fallen, do not ſay they are all ſuch: No, let it be far from you, let the burden lye upon me, I codfeſs I was naught, and ſo are all ſuch <hi>Hypocrites</hi> as I am; but I beſeech you ſpeak not evill, open not your mouthes a<g ref="char:EOLhyphen"/>gainſt the Goſpel or Profeſſion, Gods pure Wor<g ref="char:EOLhyphen"/>ſhip and Service, for my being a wretch; Gods Service is holy, his wayes good, ſafe and delight<g ref="char:EOLhyphen"/>full, and full of Honour; and it is better to be his ſervant then to be ſervant to the greateſt Monarch on earth; I pray you then labour to be his Ser<g ref="char:EOLhyphen"/>vants, and to obey his Will and Commands, ſet down in his Word, go you by that Rule <hi>I</hi> have ſwerved from: Oh that <hi>I</hi> was aſſured of being his Servant! How would it comfort my heart, and cheer up my ſpirit in the great ſtraight <hi>I</hi> am now in! Oh that the Lord would lift up the light of his countenance, that <hi>I</hi> might have ſom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> little glimpſe of his favour! Oh that the LORD would open one little creviſe to mee, that
+<pb facs="tcp:169722:5"/>
+might apprehend his love! Oh what is one drop of Chriſts Blood worth? what would <hi>I</hi> give to have it? He was anſwered, He might have it for nothing, the <hi>Brazen Serpent</hi> Jeſus is ſet forth, Now whoſoever can by faith apprehend his love, and apply it to themſelves, are juſtified and ſanctified before God. Oh then (ſaid he) pray for me as for your own ſouls, you that are in Covenant with God, your prayers are prevalent: Oh pray that this hard heart of mine may be ſoftned! Oh pray that the Lord would bee good unto mee, or elſe <hi>I</hi> ſhalbe damned preſently, <hi>I</hi> am now going whence <hi>I</hi> ſhall not returne, even into eternity of glory or torment, Oh what ſhall <hi>I</hi> doe! it had bin good for mee <hi>I</hi> had not bin borne; Death is terrible to all out of Chriſt, and the Lord is not reconſiled to me in Chriſt, hides him ſelfe from mee, Then pulling downe his hatt over his eies, hee mournfully ſaid, Hath God forgotten to be gratious? hath he ſhut up his tender mercies in diſpleaſure? will the Lord caſt off for ever? will hee be gratious no more? Theſe his complaints occaſioned much mourning and bewailing his eſtate. Then ſaid Mr. <hi>Ball,</hi> Mr. <hi>Barker</hi> I have told you that you have ſo much diſ<g ref="char:EOLhyphen"/>honoured God, that it may be the Lord will not honour you ſo far as to manifeſt his love to you, he reſerves that till afterward. Then ſaid he, I have done with the firſt, my foul ſin of unclean<g ref="char:EOLhyphen"/>neſs: Now for the Murder, of which I do here up<g ref="char:EOLhyphen"/>on my death profeſs, I am not guilty neither in act <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or in conſenting to the death of that Infant;
+<pb facs="tcp:169722:5"/>
+the Lord forgive, and ſo do I my violent perſecu<g ref="char:EOLhyphen"/>tors with all their bitter and malicious intend<g ref="char:EOLhyphen"/>ments and proceedings againſt me; indeed I con<g ref="char:EOLhyphen"/>feſs that many murderous thoughts have gone thorow my ſoule; but theſe, although they de<g ref="char:EOLhyphen"/>ſerve death by Gods Law, yet mans Law takes no hold of them, yet for theſe bloudy thoughts, and my luſtfull filthy unclean life, I have deſerved this death, and a worſe too, and herein I deſire to mag<g ref="char:EOLhyphen"/>nifie the juſt hand of the Lord in bringing to light my ſhamefull foul offences, and I deſire to magni<g ref="char:EOLhyphen"/>fie all his holy Attributes, his Mercy, Juſtice, wiſ<g ref="char:EOLhyphen"/>dome, Power, Truth, Goodneſs, and the reſt of them, in that he hath now let me have experience of them all, that in as much as I have diſhonoured him, he moſt juſtly hath diſhonoured me, and brought me out, and made me viſible by ſuch a Correction as this, for other Chaſtiſements that were more gentle, would not ſerve, nor ſtay me from my greedy purſuit, and going on in this vile courſe of life, exceeding vicious, I that taught o<g ref="char:EOLhyphen"/>thers did not learn my ſelf, for which I earneſtly crave pardon of Almighty God, (which he did ve<g ref="char:EOLhyphen"/>ry fervently, and (I hope) effectually) Then he ſung the 31. <hi>Pſalm,</hi> ſome of all the three Parts, as much as was convenient for that occaſion. When that was ended, it was demanded of him, that if he had no hand in the Murther, but were guiltleſs, why and for what end he made the Grave; He an<g ref="char:EOLhyphen"/>ſwered, when he made the hole, it was his Maids and Kinſwomans opportunity, for they told me
+<pb facs="tcp:169722:6"/>
+(ſaid he) it was to receive ſuch things as modeſt men and women may eaſily conceive what. Then he was asked why he did not diligently inquire further, having ſuch a juſt cauſe of ſuſpition: He anſwered, I confeſs my ſelf too blame and faulty herein. Then he was asked, <hi>Why he had a hand in procuring</hi> Savin <hi>for his Kinſwoman whom he loved ſo well, and from whom he had received ſo much good, and to wbom he endeavoured to do ſo much good?</hi> He anſwe<g ref="char:EOLhyphen"/>red, therein he did but as he was requeſted and in<g ref="char:EOLhyphen"/>treated, and for it he was but a Meſſenger for both of them; his Kinſwoman and Maid told him, that if ſhe had ſome of that to take, it would bring down thoſe things which uſed to come monethly, the ſtopping whereof made her ſo ill as ſhe ſaid. But (ſaid he) here is the juſt hand of the Lord, that hath not, and will not ſpare ſin in any, no not in his own, but will ſeverely puniſh it in all firſt or laſt, as here you may ſee I am brought to an end unbeſeeming a Miniſter. I blame not the Judge nor the Jury, nor the Proſecutors but my ſelf; and therefore (good People) do not think the worſe of God, or of his faithfull Miniſters for my ſin, I pray you again and again; for if you ſhould, you may condemn the generation of the Juſt, for my wretched life and errors do not ſay they are all ſuch. Remember you have been told by them that are now dead, and by my ſelf; You may as well ſay, that becauſe there was one <hi>Judas</hi> a Thief, a Traitor among the Apoſtles, that therefore they were all Theeves and Traitors, and ſo you may
+<pb facs="tcp:169722:6"/>
+utterly undo your ſouls and bodies by affirming ſuch an untruth, ſuch a falſe concluſion; Blame me a ſinfull wicked man, and lay the fault of this ſcandall and offence upon mee: Oh that I could do that good as I have done hurt, and that my life and blood would ſtop the mouthes of the enemies of the truth, who will ſay (I know) when I am gone and dead, I knew and ſaw one hang'd as precize as you; Oh how it cuts my heart that I have been ſuch an offence to my own calling and Profeſſion! You of the Miniſtery, I pray you for<g ref="char:EOLhyphen"/>give me, and pardon my offenſive life: You that profeſs the glorious Goſpel, forgive me, for I have made all your hearts ſad, I have been a great cauſe of grief to all of you, and an occaſion for you to have in your diſh when I am dead. Alas! good Sirs, what ſhall I doe? I am pre<g ref="char:EOLhyphen"/>ſently to appear before the great Judge of all the World; Oh how bitter are the thoughts of death to mee! How ſhall I do to encounter with Death! Then hee was told that JESUS CHRIST had pulled out the Sting of Death, which is ſin, for all that live godly and righteouſly in this preſent World; Yea, but ſaid hee, I am un<g ref="char:EOLhyphen"/>godly and unrighteous; What ſhall I doe? Hee was anſwered, That CHRIST came not to call the Rsghteous, but Sinners to re<g ref="char:EOLhyphen"/>pentance. Oh, (ſaid he) that Repentance and godly ſorrow is that which I want. He was then adviſed to have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> courſe to him that giveth libe<g ref="char:EOLhyphen"/>rally unto all, and reſpecteth none.</p>
+            <p>
+               <pb facs="tcp:169722:7"/>Then ſaid he, Mine end is reproachfull; He was anſwered, It was not ſo bad, nor ſo bitter as Chriſts upon the <hi>Croſſe,</hi> and yet he ſubmitted to his Fa<g ref="char:EOLhyphen"/>thers Will, and further, That it was better to goe from the <hi>Callowes</hi> to heaven, then from a <hi>Down-bed</hi> to hell.</p>
+            <q>God corrects every Son whom he receiveth.</q>
+            <p>Then he ſaid, How am <hi>I</hi> preſſed with my ſinnes? How doth the burden of them oppreſs me? He then was wiſhed to accept of that Invitation,</p>
+            <q>
+               <bibl>Matth. <hi>11.28.</hi>
+               </bibl> Now your poor wounded ſoul is laden and weary, come unto me, and I will eaſe you.</q>
+            <p>Then ſaid he, direct me, and I will be ruled by you, then he was told, That all thoſe who are ſa<g ref="char:EOLhyphen"/>ved from hell, are juſtified <hi>freely by the grace of God, through the Redemption that is in Jeſus Chriſt.</hi> The Miniſters told him, That now it was not how ma<g ref="char:EOLhyphen"/>ny, or how foul his offences were, if he had faith to come to <hi>Jeſus Chriſt,</hi> and to lay hold on him, <hi>He that cometh to me, I will in no caſe caſt off.</hi> I (ſaid he) but may I believe you, may I ground upon your words? He was anſwered, He might take Gods Word, who hath commanded you to believe the Prophets and you ſhall proſper, and hath ſaid, <hi>that Chriſt loveth to the uttermoſt them that come to him.</hi> Then ſaid he, upon this Foundation will I build, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere will <hi>I</hi> build, here will <hi>I</hi> rely, and repoſe my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf, <hi>though he kill me, yet will I truſt in him.</hi> And yet <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſaid, Oh that <hi>I</hi> might ſee your faces in Heaven, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd were as ſure to be there as you are! Hee was
+<pb facs="tcp:169722:7"/>
+told, They hoped he ſhould, though he went before them. Oh (ſaid he) what a merry and joyfull meeting ſhould we have! He was then told, that this was a good Argument that he was tranſlated from <hi>death to life, becauſe he loved the Brethren, and wiſhed their ſalvation.</hi> Oh (ſaid he) <hi>I</hi> do love you, and am loath to part with you that love and fear the Lord. Then was he told, That the Church tri<g ref="char:EOLhyphen"/>umphant and the Church militant are ſuch as doe belong one to another, the Saints there, and the godly here, are all of a company. Why then (ſaid he) you ſay <hi>I</hi> muſt reſt only on Chriſt for Salvati<g ref="char:EOLhyphen"/>on, and upon his <hi>free grace</hi> and mercy. Yea (ſaid the Miniſters) for God is faithfull that hath promiſed, and to them that truely Beleeve and Repent, the ſinfulneſſe of the ſinner doth not make the grace of God of none effect; You know (Mr. <hi>Barker</hi>) what your Wife ſaid, <hi>That if ſhe had a Houſe full of Gold, ſhee would give it with all her Heart to ſave your Life;</hi> Why then Mr. <hi>Barker</hi> (ſaid they) argue thus for your eternall comfort, from the leſſer to the grea<g ref="char:EOLhyphen"/>ter, The love of the Creature is <hi>finite,</hi> but the love of the Creator is <hi>infinite,</hi> If your Wife whom you have wronged ſo much, doth ſo love you, <hi>The love of the LORD paſſeth the Love of Women.</hi> Then ſaid he, <hi>I</hi> will throw away all my other Foundations, all my Latine, Greeke and Hebrew, it will doe me no good, all my Labours and Duties, <hi>I</hi> caſt them all away, and cloſe with JESUS CHRIST: <hi>I come LORD JES<g ref="char:V">Ʋ</g>S CHRIST, Oh plead thou for me, be<g ref="char:EOLhyphen"/>queath thy Righteouſnes unto wee;</hi> And this muſt you
+<pb facs="tcp:169722:8"/>
+do all that hear me this day, You muſt goe out of your ſelves, and out of your beſt Dueties, as Read<g ref="char:EOLhyphen"/>ing, Hearing, Receiving the Sacraments, Workes of Charitie, Faſting, Prayer, Singing of Pſalmes, and the like, you muſt not think to be ſaved by them, nor for them, fly you to <hi>CHRIST</hi> alone, <hi>who hath left unto us the Words of Eternall Life,</hi> Be conti<g ref="char:EOLhyphen"/>nually uſing holy <hi>Duties,</hi> and abound in them, but truſt not to them, reſt not in them; <hi>I,</hi> but this new Worke is but lately wrought in me, it is but ſince yeſterday, for before <hi>I</hi> had a hard ſtony heart that could not repent, <hi>I</hi> deferred to ſeek God in trueth, flattering my ſelf with vain hopes of life; Surely <hi>I</hi> had never this Worke of Grace in trueth, but ſince yeſterday; Oh Mr. <hi>Rogers,</hi> the Son of a godly Fa<g ref="char:EOLhyphen"/>ther, you were an Inſtrument of breaking my hard heart, it is not two daies ſince. To this anſwer was made, this was but the ſeed-time, this was but the earneſt, the full Vintage and fruition of grace in glory. Oh Sirs, what think you of me? They an<g ref="char:EOLhyphen"/>ſwered, very well, ſeeing the LORD hath ſo broken your heart, and brought you out of your ſelf. Why <hi>I</hi> thank God (ſaid he) <hi>I</hi> have ſome Peace, Conſci<g ref="char:EOLhyphen"/>ence is a little quieter, it doth not ſmite nor check me now, whilſt <hi>I</hi> haſten to that full fruition of glo<g ref="char:EOLhyphen"/>ry which the LORD hath prepared for them that, love him, for my time is at an end, and my ſtrength is ſpent, <hi>I</hi> now take my leave of every one of you <hi>(ſhaking many by the hands) I</hi> leave you to him <hi>that is able to preſerve you blameleſs till his appearing.</hi> And you of the <hi>Miniſtry,</hi> and <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ers that Pr<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> the
+<pb facs="tcp:169722:8"/>
+Goſpel, <hi>I</hi> beſeech you to walke honeſtly and cir<g ref="char:EOLhyphen"/>cumſpectly, you had need ſo to do amongſt a fro<g ref="char:EOLhyphen"/>ward People with whom you dwell; Love the Faithfull Miniſters, reverence them; for theſe are the <hi>Moſeſſes</hi> that ſtand in the gapp, theſe are the <hi>Lots</hi> that defer Fire and Brimſtone from <hi>Sodom,</hi> theſe hold up the hands, elſe <hi>Amaleck</hi> would pre<g ref="char:EOLhyphen"/>vaile; Make much of theſe <hi>Buſhes</hi> that ſtop the <hi>Gapps,</hi> for if theſe were taken away, the dropps of Gods angry diſpleaſure would with their fearfull effects be more ſeen among us then they are, Have a care hereof;</p>
+            <p>Once again <hi>I</hi> take my leave of you (ſaid he) and ſo giving his Executioner a Piece of money; he commended his Soul and Body into the hand of the Lord, ſaying;</p>
+            <p>LORD into thy hands I commend my ſpirit. AND Lord JESUS receive my Soul.</p>
+            <p>And ſo was Executed.</p>
+         </div>
+         <div type="speeches">
+            <pb facs="tcp:169722:9"/>
+            <head>The 2 young Womens <hi>Speeches</hi> that ſuffered with him, conſiſted of theſe Three Heads.</head>
+            <p n="1">
+               <hi>1</hi> ALl Perſons whatſoeuer were exhorted by their ex<g ref="char:EOLhyphen"/>amples to take heed of all Sin whatſoever, as <hi>Swearing, Curſing, Pilfering, Cozening, Sabbath-breaking, Covetouſneſſe, Pride, Formality,</hi> Slight<g ref="char:EOLhyphen"/>ing of Gods Servants, <hi>Hypocricy;</hi> but <hi>Lying,</hi> both of them did bewail in ſpeciall manner, the Maid-ſervant ſaid, It was her bane; the other ſaid, She played the beaſt in Lying to the Judge, thinking to ſave her life hereby, and it did oppreſſe her very ſore, and (ſaid ſhee) I per<g ref="char:EOLhyphen"/>ſwade my ſelf it hath eclipſed the light of Gods Counte<g ref="char:EOLhyphen"/>nance from me, for I <hi>lyed</hi> againſt my knowledge.</p>
+            <p n="2">
+               <hi>2.</hi> That all that have the charge in <hi>Childrens</hi> Edu<g ref="char:EOLhyphen"/>cation, would be admoniſhed to place them in Religious Families: and let none ſay, So were you placed, and we ſee what is befallen you, for (ſaid they) it is the want of true Religion in our hearts that hath undone us.</p>
+            <p n="3">
+               <hi>3.</hi> They acknowledged themſelves guilty of that for which they dyed, and they cleared Mr. <hi>Barker</hi> from ha<g ref="char:EOLhyphen"/>ving any hand in the Murder, and they did adviſe all People to take heed of truſting to any mortall Creature, and of relying too much upon any friends, or any thing here below, but to caſt their care upon the Lord alone for<g ref="char:EOLunhyphen"/>ever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
